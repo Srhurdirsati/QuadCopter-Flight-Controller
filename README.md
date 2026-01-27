@@ -2,6 +2,10 @@
 
 Hello everyone ,this is a basic flight controller capable of controlling 4 escs at the same time this is based on SMT 32 and have a USB port along with battery connector to connect the battery where I an IMU.
 
+## Why I Made This 
+
+I had a dream to create a drone since I was 8years old , a fully custom drone that will be an fpv drone with high speeds , this is my first step to create a flight controller for it , i May bring some sort of updates but for now , it's just a simple flight controller . 
+
 ## BOM
 
 <img width="921" height="572" alt="image" src="https://github.com/user-attachments/assets/3b8df72d-edc5-4ed0-a8ac-b9cd99c58d19" /> This is not final , it had some changes 
