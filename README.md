@@ -4,7 +4,7 @@ Hello everyone ,this is a basic flight controller capable of controlling 4 escs 
 
 ## Why I Made This 
 
-I had a dream to create a drone since I was 8years old , a fully custom drone that will be an fpv drone with high speeds , this is my first step to create a flight controller for it , i May bring some sort of updates but for now , it's just a simple flight controller . 
+I had a dream to create a drone since I was 8years old , a fully custom drone that will be an fpv drone with high speed , this is my first step to create a flight controller for it , i May bring some sort of updates but for now , it's just a simple flight controller . 
 
 ## BOM
 
